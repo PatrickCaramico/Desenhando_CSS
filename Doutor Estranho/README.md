@@ -27,7 +27,7 @@
 
 ### preview
 
-<img src="" width="900px"/>
+<img src="Project_image/Doutor_Strange.gif" width="900px"/>
 
 ## My code
 
@@ -36,12 +36,12 @@
 ### html
 
 <p>Code HTML</p>
-<img align="center" src="" width="900px"/>
+<img align="center" src="Project_image/Tela_HTML.png" width="900px"/>
 
 ### css
 
 <p>Code CSS</p>
-<img align="center" src="" width="900px"/>
+<img align="center" src="Project_image/Tela CSS.png" width="900px"/>
 
 ## process
 
