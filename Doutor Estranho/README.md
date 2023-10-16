@@ -6,6 +6,7 @@
 - [Summary](#summary)
   - [About the project](#about)
   - [screenshot](#screenshot)
+  - [preview](#preview)
 - [My code](#codes)
   - [HTML](#html)
   - [CSS](#css)
@@ -24,7 +25,13 @@
 
 <img src="" width="900px"/>
 
-## My codes
+### preview
+
+<img src="" width="900px"/>
+
+## My code
+
+### codes
 
 ### html
 
