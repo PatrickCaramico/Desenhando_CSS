@@ -7,4 +7,16 @@
 ## Links Desenhos
 
 - [Capitão America]()
-  - [Código]()  
+  - [Código]()
+- [Doutor Estranho]()
+  - [Código]()
+- [Finn Hora de Aventura]()
+  - [Código]()
+- [Homem Aranha]()
+  - [Código]()
+- [Homem de Ferro]()
+  - [Código]()   
+- [Viúva Negra]()
+  - [Código]()
+ 
+  ---         
